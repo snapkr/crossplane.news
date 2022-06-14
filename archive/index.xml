@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Introduction</title>
-    <link>http://crossplane.news/</link>
-    <description>Recent content on Introduction</description>
+    <title>Archive on Introduction</title>
+    <link>http://crossplane.news/archive/</link>
+    <description>Recent content in Archive on Introduction</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 13 Jun 2022 12:36:37 +0200</lastBuildDate><atom:link href="http://crossplane.news/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 13 Jun 2022 12:35:02 +0200</lastBuildDate><atom:link href="http://crossplane.news/archive/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Crossplane News 000</title>
       <link>http://crossplane.news/archive/000/</link>
@@ -25,15 +25,6 @@ Crossplane at conferences Kubecon 2020 in Valencia, Spain Learning From Providin
       <pubDate>Mon, 13 Jun 2022 12:36:37 +0200</pubDate>
       
       <guid>http://crossplane.news/archive/001/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Crossplane News</title>
-      <link>http://crossplane.news/home/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://crossplane.news/home/</guid>
       <description></description>
     </item>
     
