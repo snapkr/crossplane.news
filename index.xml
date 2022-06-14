@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Introduction</title>
-    <link>http://crossplane.news/</link>
+    <link>https://crossplane.news/</link>
     <description>Recent content on Introduction</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 13 Jun 2022 12:36:37 +0200</lastBuildDate><atom:link href="http://crossplane.news/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 13 Jun 2022 12:36:37 +0200</lastBuildDate><atom:link href="https://crossplane.news/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Crossplane News 000</title>
-      <link>http://crossplane.news/archive/000/</link>
+      <link>https://crossplane.news/archive/000/</link>
       <pubDate>Mon, 13 Jun 2022 12:36:37 +0200</pubDate>
       
-      <guid>http://crossplane.news/archive/000/</guid>
+      <guid>https://crossplane.news/archive/000/</guid>
       <description>Welcome to the first ever issue of Crossplane News!
 On to this issues´s news and other interesting things in the broader Kubernetes and Cloud Native ecosystem.
 Provider Spotlight New service announcements and features New and notable blogs Crossplane vs Terraform by Nic Cope, Principal Engineer at Upbound New videos and webinars Ecosystem news asddas
@@ -21,19 +21,19 @@ Crossplane at conferences Kubecon 2020 in Valencia, Spain Learning From Providin
     
     <item>
       <title>Crossplane News 001</title>
-      <link>http://crossplane.news/archive/001/</link>
+      <link>https://crossplane.news/archive/001/</link>
       <pubDate>Mon, 13 Jun 2022 12:36:37 +0200</pubDate>
       
-      <guid>http://crossplane.news/archive/001/</guid>
+      <guid>https://crossplane.news/archive/001/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Crossplane News</title>
-      <link>http://crossplane.news/home/</link>
+      <link>https://crossplane.news/home/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://crossplane.news/home/</guid>
+      <guid>https://crossplane.news/home/</guid>
       <description></description>
     </item>
     
